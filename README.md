@@ -1,5 +1,7 @@
 # strapdown-topbar
 A topbar modification for [strapdown.js](http://strapdownjs.com/)
+
+# Uses [bootswatch themes](https://github.com/thomaspark/bootswatch)
  
 ## Examples
 Example #1
